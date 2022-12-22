@@ -3,12 +3,12 @@ Using ChatGPT as a top Business Consultant.
 
 [ChatGPT](https://openai.com/blog/chatgpt/) is a large language model from [OpenAI](https://openai.com).
 
-* [SWOT Analysis](#SWOT)
-* [PESTEL Analysis](#PESTEL)
+* [SWOT Analysis](#swot-analysis)
+* [PESTEL Analysis](#pestel-analysis)
 
 Here are some prompts to extract some ways for ChatGPT to act as business consultant.
 
-## SWOT
+## SWOT Analysis
 
 This prompt can be used to generate a **SWOT Analysis** for a topic such as ```Decarbonisation in the Mining Industry```.
 The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
@@ -49,7 +49,7 @@ Make the list compelling and professional.
 Example outputs: 
 * SWOT Analysis of [Decarbonisation in the Mining Industry](SWOT-decarbonisation-mining.md)
 
-## PESTEL
+## PESTEL Analysis
 
 This prompt can be used to generate a **PESTEL Analysis** for a topic such as ```Decarbonisation in the Mining Industry```.
 The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
