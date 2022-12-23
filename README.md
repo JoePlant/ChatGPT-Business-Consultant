@@ -15,8 +15,8 @@ This document outlines how common strategic analysis can be undertaken using the
 
 ## SWOT Analysis
 
-This prompt can be used to generate a **SWOT Analysis** for a topic such as ```Decarbonisation in the Mining Industry```.
-The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
+This prompt can be used to generate a **[SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)** for a topic such as ```Decarbonisation in the Mining Industry```.
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
 Different topics can be catered for by changing the following line:
 
@@ -64,8 +64,8 @@ Example outputs:
 
 ## PESTEL Analysis
 
-This prompt can be used to generate a **PESTEL Analysis** for a topic such as ```Decarbonisation in the Mining Industry```.
-The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
+This prompt can be used to generate a **[PESTEL Analysis](https://en.wikipedia.org/wiki/PEST_analysis)** for a topic such as ```Decarbonisation in the Mining Industry```.
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
 Different topics can be catered for by changing the following line:
 
@@ -119,8 +119,8 @@ Example outputs:
 
 ## Porter's Five Forces
 
-This prompt can be used to generate a **Porter's Five Forces Analysis** for a topic such as ```Mining Industry```.
-The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
+This prompt can be used to generate a **[Porter's Five Forces Analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)** for a topic such as ```Mining Industry```.
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
 Different topics can be catered for by changing the following line:
 
@@ -170,9 +170,9 @@ Example outputs:
 
 This prompt can be used to generate the content for a **[Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)** for a topic such as ```Apple iPhone```.
 
-![Business Model Canvas](images/Business_Model_Canvas.png){:width="50%"}
+![Business Model Canvas](images/Business_Model_Canvas.png)
 
-The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
 Different topics can be catered for by changing the following line:
 
@@ -184,7 +184,7 @@ The {topic} is "Apple iPhone"
 Act as a business consultant from a top management company.
 I want you to generate a Business Model Canvas on {topic}.
 
-The {topic} is "Apple IPhone"
+The {topic} is "Apple iPhone"
 
 Layout the Business Model Canvas in the following format. 
 Give reasons why a point is included in the Business Model Canvas. 
