@@ -170,7 +170,7 @@ Example outputs:
 
 This prompt can be used to generate the content for a **[Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)** for a topic such as ```Apple iPhone```.
 
-![Business Model Canvas](images/Business_Model_Canvas.png){:width="50%"}
+![Business Model Canvas](images/Business_Model_Canvas.png)
 
 The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
 
