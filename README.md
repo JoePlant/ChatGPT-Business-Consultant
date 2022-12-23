@@ -1,4 +1,4 @@
-# ChatGPT-Business-Consultant
+# ChatGPT as a Business Consultant
 
 Using ChatGPT as a top Business Consultant.
 
