@@ -8,6 +8,8 @@ Using ChatGPT as a top Business Consultant.
 
 Here are some prompts to extract some ways for ChatGPT to act as business consultant.
 
+----
+
 ## SWOT Analysis
 
 This prompt can be used to generate a **SWOT Analysis** for a topic such as ```Decarbonisation in the Mining Industry```.
@@ -48,6 +50,8 @@ Make the list compelling and professional.
 ```
 Example outputs: 
 * SWOT Analysis of [Decarbonisation in the Mining Industry](SWOT-decarbonisation-mining.md)
+
+----
 
 ## PESTEL Analysis
 
@@ -93,3 +97,51 @@ Make the list compelling and professional.
 [conclusion about {topic}]
 
 ```
+Example outputs: 
+* PESTEL Analysis of [Decarbonisation in the Mining Industry](PESTEL-decarbonisation-mining.md)
+
+-----
+
+## Porter's Five Forces
+
+This prompt can be used to generate a **Porter's Five Forces Analysis** for a topic such as ```Mining Industry```.
+The prompt is constructed to *Act as Business Consultant* and provide analysis in a structured format.
+
+Different topics can be catered for by changing the following line: 
+```The {topic} is "Mining Industry." ```
+
+```
+Act as a Business Consultant from a top management company. 
+I want you to generate a Porter's Five Forces Report on {topic}.
+
+The {topic} is "Mining Industry"
+
+Layout the Porter's Five Forces in the following format. 
+Give reasons why a point is included in the Porter's Five Forces. 
+Make the list compelling and professional.
+ 
+# {topic}
+## Porter's Five Forces
+[introduction and definition about {topic}]
+ 
+### 1. Competition in the Industry 
+[list about competition in the industry, bold - maximum of 4] 
+ 
+### 2. Potential for New Entrants 
+[list of factors about Potential for New Entrants, bold - maximum of 4] 
+ 
+### 3. Power of Suppliers
+[list of factors about power of suppliers, bold - maximum of 4]
+ 
+### 4. Power of Customers
+[list of factors about power of customers, bold - maximum of 4]
+ 
+### 5. Threat of Substitutes 
+[list of factors about threat of substitutes, bold - maximum of 4]
+ 
+[conclusion about {topic}]
+```
+Example outputs: 
+* Porter's Five Forces Analysis of [Mining Industry](Porters-mining.md)
+
+-----
