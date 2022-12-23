@@ -162,7 +162,7 @@ Make the list compelling and professional.
 
 Example outputs:
 
-* Porter's Five Forces Analysis of [Mining Industry](Porters-mining.md)
+* Porter's Five Forces Analysis of the [Mining Industry](Porters-mining.md)
 
 ----
 
@@ -238,6 +238,6 @@ Make the list compelling and professional.
 
 Example outputs:
 
-* Business Model Canvas for [Apple iPhone](BMC-iphone.md)
+* Business Model Canvas for the [Apple iPhone](BMC-iphone.md)
 
 ----
