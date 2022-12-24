@@ -119,7 +119,7 @@ Example outputs:
 
 ## Porter's Five Forces
 
-This prompt can be used to generate a **[Porter's Five Forces Analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)** for a topic such as ```Mining Industry```.
+This prompt can be used to generate a **[Porter's Five Forces Analysis](https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis)** for a topic such as the ```Mining Industry```.
 The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
 Different topics can be catered for by changing the following line:
@@ -168,7 +168,7 @@ Example outputs:
 
 ## Business Model Canvas
 
-This prompt can be used to generate the content for a **[Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)** for a topic such as ```Apple iPhone```.
+This prompt can be used to generate the content for a **[Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)** for a topic such as the ```Apple iPhone```.
 
 ![Business Model Canvas](images/Business_Model_Canvas.png)
 
