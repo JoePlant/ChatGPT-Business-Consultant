@@ -1,5 +1,7 @@
 # Walmart
 
+> Example [SWOT Analysis](README.md/#swot-analysis) by ChatGPT
+
 ## SWOT Analysis
 
 Walmart is a multinational retail corporation that operates a chain of discount department stores and warehouse stores. Founded in 1962 by Sam Walton, the company has grown to become one of the largest retailers in the world, with over 11,000 stores in 27 countries.
