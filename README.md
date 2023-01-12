@@ -59,6 +59,7 @@ Make the list compelling and professional.
 Example outputs:
 
 * SWOT Analysis for [Decarbonisation in the Mining Industry](SWOT-decarbonisation-mining.md)
+* SWOT Analysis for [NASA](SWOT-NASA.md)
 * SWOT Analysis for [Walmart](SWOT-Walmart.md)
 
 ----
