@@ -1,12 +1,11 @@
-# NASA
+# NASA - SWOT Analysis
 
-> Example [SWOT Analysis](README.md/#swot-analysis) by ChatGPT
-
-## SWOT Analysis
+* [**SWOT Analysis**](SWOT-NASA.md)
+* [PESTEL Analysis](../pestel/PESTEL-NASA.md)
 
 National Aeronautics and Space Administration (NASA) is a government agency responsible for the civilian space program, as well as aeronautics and space research. Founded in 1958, NASA has played a crucial role in advancing technology and knowledge in the fields of space exploration and aeronautics.
 
-### Strengths
+## Strengths
 
 * **Leadership in space exploration and research**: NASA has a long history of successfully leading space exploration missions and conducting cutting-edge research in aeronautics and space science. It has also been at the forefront of developing new technologies for space exploration, such as the use of reusable rockets.
 * **Strong partnerships and collaborations**: NASA has a wide range of partnerships with other organizations, including other government agencies, international space agencies, and private companies, which allows it to tap into a wealth of expertise and resources.
@@ -14,7 +13,7 @@ National Aeronautics and Space Administration (NASA) is a government agency resp
 * **Substantial budget**: NASA has a significant budget allocated by the government which allows them to execute large-scale space exploration and research projects and maintain their infrastructure.
 * **Exciting public engagement**: NASA has a strong public engagement and educational program that generates a lot of interest and excitement in space exploration and science among the general public.
 
-### Weaknesses
+## Weaknesses
 
 * **Budget uncertainty**: NASA's budget is subject to change based on political and economic factors, which can create uncertainty and make it difficult to plan long-term projects.
 * **Long-term program planning**: Due to the nature of space exploration and research, many NASA's projects have long-term timelines that span decades. This can make it difficult for the agency to plan for the future and stay on track with its goals.
@@ -22,7 +21,7 @@ National Aeronautics and Space Administration (NASA) is a government agency resp
 * **Competition with private sector**: As private companies like SpaceX and Blue Origin have become more prominent in the space industry, NASA may face increased competition in areas like space launch services.
 * **Reputation damage from failed missions**: In the event of a high-profile failure, NASA's reputation can be damaged which can negatively impact funding and public support.
 
-### Opportunities
+## Opportunities
 
 * **Collaboration with commercial space companies**: NASA can work more closely with commercial space companies to access their resources, expertise and capabilities which can help increase NASA's efficiency and effectiveness.
 * **Increased focus on space exploration**: With growing public interest in space exploration and science, NASA has an opportunity to increase its funding and resources to pursue more ambitious space exploration missions.
@@ -30,7 +29,7 @@ National Aeronautics and Space Administration (NASA) is a government agency resp
 * **Research of new frontiers**: With recent advances in fields like Artificial intelligence and Quantum computing, NASA has an opportunity to pursue new areas of research and innovation, which can further our understanding of space and also have applications on Earth.
 * **Creating a sustainable future in space**: NASA has the opportunity to lead the way in developing sustainable technologies and practices for space exploration, which can ensure a bright future for human spaceflight.
 
-### Threats
+## Threats
 
 * **Decrease in funding**: NASA's budget can be impacted by economic and political factors, which can lead to a decrease in funding for space exploration and research projects.
 * **Delays and cost overruns**: Complex space exploration and research missions are prone to delays and cost overruns, which can lead to budget and schedule constraints.
