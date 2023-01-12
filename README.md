@@ -117,6 +117,7 @@ Example outputs:
 
 * PESTEL Analysis for [Decarbonisation in the Mining Industry](PESTEL-decarbonisation-mining.md)
 * PESTEL Analysis for [NASA](PESTEL-NASA.md)
+* PESTEL Analysis for [Walmart](PESTEL-Walmart.md)
 
 ----
 
