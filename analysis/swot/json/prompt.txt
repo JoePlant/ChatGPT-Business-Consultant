@@ -1,0 +1,7 @@
+generate a json output showing the key SWOT details from the following analysis
+
+####
+
+<insert>
+
+####

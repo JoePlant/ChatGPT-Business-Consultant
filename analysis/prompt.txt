@@ -1,0 +1,31 @@
+Act as a Business Consultant from a top management company.   
+I want you to do a strategic analysis of {company}.
+
+The {company} is "Rockwell Automation" 
+
+Layout the Strategic Analysis in the following format. 
+Give reasons why a point is included in the analysis. 
+Make the list compelling and professional.
+
+# {company} - Strategic Analysis
+
+[introduction and definition of {company}]
+
+## Target Markets 
+
+[list of target markets, bold. Explain why it is important]
+
+## Industries
+[list of industries, bold. Explain why it is important]
+
+## Key Differentiators
+
+[list of key differentiators, bold - explain why it is important]
+
+## Competitive Landscape
+
+[list of competitors, bold]
+
+## Strategy
+
+[list of strategic initiatives, bold.  explain why it is important]
