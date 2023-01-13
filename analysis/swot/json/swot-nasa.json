@@ -1,0 +1,32 @@
+{
+    "analysis": "SWOT",
+    "company": "National Aeronautics and Space Administration (NASA)",
+    "strengths": [
+        "Leadership in space exploration and research",
+        "Strong partnerships and collaborations",
+        "Highly skilled workforce",
+        "Substantial budget",
+        "Exciting public engagement"
+    ],
+    "weaknesses": [
+        "Budget uncertainty",
+        "Long-term program planning",
+        "Limited international collaborations",
+        "Competition with private sector",
+        "Reputation damage from failed missions"
+    ],
+    "opportunities": [
+        "Collaboration with commercial space companies",
+        "Increased focus on space exploration",
+        "Exploration of new destinations",
+        "Research of new frontiers",
+        "Creating a sustainable future in space"
+    ],
+    "threats": [
+        "Decrease in funding",
+        "Decreased public support",
+        "Technological advancements by other countries",
+        "Natural disasters",
+        "Political instability"
+    ]
+}
