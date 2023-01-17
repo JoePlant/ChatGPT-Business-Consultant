@@ -1,0 +1,33 @@
+Act as a Business Consultant from a top management company. 
+I want a PESTEL Analysis on {topic}.
+
+The {topic} is "Decarbonisation in the Mining Industry." 
+
+Layout the PESTEL Analysis in the following format. 
+Give reasons why a point is included in the PESTEL Analysis. 
+Make the list compelling and professional.
+
+# {topic}
+## PESTEL Analysis
+
+[introduction and definition about {topic}]
+ 
+### Political
+[list of key political factors, bold - maximum of 4] 
+ 
+### Economic
+[list of key economic factors, bold - maximum of 4] 
+ 
+### Social
+[list of key social factors, bold - maximum of 4]
+ 
+### Technological
+[list of key technological factors, bold - maximum of 4]
+ 
+### Environmental
+[list of key environmental factors, bold - maximum of 4]
+ 
+### Legal
+[list of key legal factors, bold - maximum of 4]
+ 
+[conclusion about {topic}]

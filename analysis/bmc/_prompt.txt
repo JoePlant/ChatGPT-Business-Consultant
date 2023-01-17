@@ -1,0 +1,42 @@
+Act as a Business Consultant from a top management company. 
+I want you to generate a Business Model Canvas on {topic}.
+
+The {topic} is "Apple iPhone"
+ 
+Layout the Business Model Canvas in the following format. 
+Give reasons why a point is included in the analysis. 
+Make the list compelling and professional.
+ 
+# {topic}
+## Business Model Canvas
+
+[introduction and definition about {topic}]
+ 
+### Key Partners 
+[list about key partners, bold - maximum of 4] 
+
+### Key Activities
+[list about key activities, bold - maximum of 4] 
+
+### Key Resources 
+[list about key partners, bold - maximum of 4] 
+
+### Value Propositions
+[list about value proposition, bold - maximum of 4] 
+
+### Customer Relationships
+[list about customer relationships, bold - maximum of 4] 
+
+### Channels
+[list about channels, bold - maximum of 4] 
+
+### Customer Segments
+[list about customer segments, bold - maximum of 4] 
+
+### Cost Structure
+[list about cost structure, bold - maximum of 4] 
+
+### Revenue Streams
+[list about revenue streams, bold - maximum of 4] 
+
+[conclusion about {topic}]
