@@ -24,7 +24,7 @@ Make the list compelling and professional.
 
 ## Competitive Landscape
 
-[list of competitors, bold]
+[table of competitors with SWOT analysis. Include columns for company, strengths, weaknesses]
 
 ## Strategy
 
