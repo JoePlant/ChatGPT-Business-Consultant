@@ -1,5 +1,5 @@
 Act as a Business Consultant from a top management company. 
-I want a SWOT analysis on {company} 
+I want a SWOT analysis on {company} using only current information.
 
 The {company} is "Apple Inc" 
 
@@ -26,7 +26,7 @@ mindmap
         o2[Opportunity 2]
         o3[Opportunity 3]
 
-    T))Threats(()
+    T))Threats((
         t1[Threat 1]
         t2[Threat 2]
         t3[Threat 3]
