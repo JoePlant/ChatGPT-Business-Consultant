@@ -15,6 +15,8 @@ This document outlines how common strategic analysis can be undertaken using the
 
 ## SWOT Analysis
 
+### SWOT Analysis for a Topic
+
 This prompt can be used to generate a **[SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)** for a topic such as ```Decarbonisation in the Mining Industry```.
 The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
 
@@ -27,7 +29,7 @@ The {topic} is "Decarbonisation in the Mining Industry."
 ```ChatGPT
 
 Act as a Business Consultant from a top management company. 
-I want a SWOT analysis on {topic} 
+I want a SWOT analysis on {topic} using only current information.
 
 The {topic} is "Decarbonisation in the Mining Industry." 
 
@@ -59,8 +61,64 @@ Make the list compelling and professional.
 Example outputs:
 
 * SWOT Analysis for [Decarbonisation in the Mining Industry](SWOT-decarbonisation-mining.md)
-* SWOT Analysis for [NASA](SWOT-NASA.md)
-* SWOT Analysis for [Walmart](SWOT-Walmart.md)
+
+### SWOT Analysis for a Company
+
+This prompt can be used to generate a **[SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)** for a company such as ```Apple Inc.```.
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
+
+Different companies can be analysed by asking in following chats or by changing the following line:
+
+```ChatGPT
+The {company} is "Apple Inc" 
+```
+
+```ChatGPT
+Act as a Business Consultant from a top management company. 
+I want a SWOT analysis on {company} using only current information. 
+
+The {company} is "Apple Inc" 
+
+Make the SWOT compelling and professional and sort the lists with the most important factors first.
+
+Start the analysis with a paragraph showing the introduction and definition of the {company}.  
+If the company is traded on the stock market, I want you to include stock ticker in the introduction.
+
+End the analysis with a conclusion about {company}.
+
+Each part of the SWOT will use the "bullet, bold, description format" shown here
+
+* **high level point**: explanation why it is important
+
+Layout the SWOT Analysis in markdown format.
+
+# {company} - SWOT Analysis
+
+[introduction and definition of {company}]
+
+## Strengths
+
+[list of key strengths - use bullet, bold, description format] 
+
+## Weaknesses
+
+[list of key weaknesses - use bullet, bold, description format] 
+
+## Opportunities
+
+[list of key opportunities - use bullet, bold, description format] 
+
+## Threats
+
+[list of key threats - use bullet, bold, description format] 
+
+[conclusion about {company}]
+
+```
+
+Example outputs:
+
+* SWOT Analysis for [Apple Inc.](SWOT-apple.md)
 
 ----
 

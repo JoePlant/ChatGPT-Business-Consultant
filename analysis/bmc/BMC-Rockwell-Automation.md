@@ -4,14 +4,14 @@ Rockwell Automation is a global provider of industrial automation and informatio
 
 ## Key Partners
 
-Strategic partnerships with leading automation and technology companies
-Distribution partnerships with key industrial suppliers and distributors
-Collaborations with academic and research institutions
-OEM partnerships with manufacturers in various industries
+* Strategic partnerships with leading automation and technology companies
+* Distribution partnerships with key industrial suppliers and distributors
+* Collaborations with academic and research institutions
+* OEM partnerships with manufacturers in various industries
 
 ## Key Activities
 
-Research and development of new products and services
+* Research and development of new products and services
 Design and manufacturing of industrial automation equipment and systems
 Delivery and installation of automation solutions
 Technical support and maintenance services
