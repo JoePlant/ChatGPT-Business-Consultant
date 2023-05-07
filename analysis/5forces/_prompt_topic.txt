@@ -1,0 +1,43 @@
+Act as a Business Consultant from a top management company. 
+I want a Porter's Five Forces analysis on {topic} using only current information. 
+
+The {topic} is "Mining Industry" 
+
+Make the Porter's Five Forces Analysis compelling and professional and sort the lists with the most important factors first.
+
+Start the analysis with a paragraph showing the introduction and definition of the {topic}.  
+
+End the analysis with a conclusion about {topic}.
+
+Each part of the analysis will use the bullet, bold, description format shown here
+
+```markdown
+* **high level point**: explanation why it is important
+```
+
+Layout the Porter's Five Forces in markdown format.
+
+```markdown
+
+# {topic} - Porter's Five Forces
+
+[introduction and definition about {topic}]
+ 
+## 1. Competition in the Industry 
+[details about Competition in the Industry - use bullet, bold, description format] 
+ 
+## 2. Potential for New Entrants 
+[details about Potential for New Entrants - use bullet, bold, description format] 
+ 
+## 3. Power of Suppliers
+[details about Power of Suppliers - use bullet, bold, description format] 
+ 
+## 4. Power of Customers
+[details about Power of Customers - use bullet, bold, description format] 
+ 
+## 5. Threat of Substitutes 
+[details about Threat of Substitutes - use bullet, bold, description format] 
+ 
+[conclusion about {topic}]
+
+```

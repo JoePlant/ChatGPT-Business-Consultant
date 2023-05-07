@@ -1,5 +1,5 @@
 Act as a Business Consultant from a top management company.   
-I want you to do a strategic analysis of {company}.
+I want you to do a strategic analysis of {company} using only current information. 
 
 The {company} is "Rockwell Automation" 
 

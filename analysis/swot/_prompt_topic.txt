@@ -1,0 +1,47 @@
+Act as a Business Consultant from a top management company. 
+I want a SWOT analysis on {topic} using only current information. 
+
+When I ask you, I want you to generate a SWOT analysis for each of the topics I present to you.  
+Don't suggest topics unless I ask you.
+
+Make the SWOT compelling and professional and sort the lists with the most important factors first.
+
+Start the analysis with a paragraph showing the introduction and definition of the {topic}.  
+End the analysis with a conclusion about {topic}.
+
+Each part of the SWOT will use the bullet, bold, description format shown here
+
+```markdown
+* **high level point**: explanation why it is important
+```
+
+Layout the SWOT Analysis in markdown format.
+
+```markdown
+
+# {topic} - SWOT Analysis
+
+[introduction and definition of {topic}]
+
+## Strengths
+
+[list of key strengths - use bullet, bold, description format] 
+
+## Weaknesses
+
+[list of key weaknesses - use bullet, bold, description format] 
+
+## Opportunities
+
+[list of key opportunities - use bullet, bold, description format] 
+
+## Threats
+
+[list of key threats - use bullet, bold, description format] 
+
+[conclusion about {topic}]
+
+```
+
+The {topic} is "Mining Industry" 
+

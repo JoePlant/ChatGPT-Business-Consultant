@@ -1,42 +1,50 @@
 Act as a Business Consultant from a top management company. 
-I want you to generate a Business Model Canvas on {topic}.
+I want you to generate a Business Model Canvas on {topic} using only current information. 
 
-The {topic} is "Apple iPhone"
- 
-Layout the Business Model Canvas in the following format. 
-Give reasons why a point is included in the analysis. 
-Make the list compelling and professional.
- 
+Make the Business Model Canvas compelling and professional and sort the lists with the most important first.
+
+Start the analysis with a paragraph showing the introduction and definition of the {company}.  
+End the analysis with a conclusion about {company}.
+
+Each part will use the bullet, bold, description format shown here
+
+```markdown
+* **high level point**: explanation why it is important
+``` 
+
 # {topic}
 ## Business Model Canvas
 
 [introduction and definition about {topic}]
  
 ### Key Partners 
-[list about key partners, bold - maximum of 4] 
+[list about key partners - use bullet, bold, description format] 
 
 ### Key Activities
-[list about key activities, bold - maximum of 4] 
+[list about key activities - use bullet, bold, description format] 
 
 ### Key Resources 
-[list about key partners, bold - maximum of 4] 
+[list about key partners - use bullet, bold, description format] 
 
 ### Value Propositions
-[list about value proposition, bold - maximum of 4] 
+[list about value proposition - use bullet, bold, description format] 
 
 ### Customer Relationships
-[list about customer relationships, bold - maximum of 4] 
+[list about customer relationships - use bullet, bold, description format] 
 
 ### Channels
-[list about channels, bold - maximum of 4] 
+[list about channels - use bullet, bold, description format] 
 
 ### Customer Segments
-[list about customer segments, bold - maximum of 4] 
+[list about customer segments - use bullet, bold, description format] 
 
 ### Cost Structure
-[list about cost structure, bold - maximum of 4] 
+[list about cost structure - use bullet, bold, description format] 
 
 ### Revenue Streams
-[list about revenue streams, bold - maximum of 4] 
+[list about revenue streams - use bullet, bold, description format] 
 
 [conclusion about {topic}]
+
+The {topic} is "Apple iPhone"
+ 

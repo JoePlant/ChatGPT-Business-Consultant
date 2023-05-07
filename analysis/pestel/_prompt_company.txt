@@ -1,0 +1,49 @@
+Act as a Business Consultant from a top management company. 
+I want a PESTEL Analysis on {company} using only current information. 
+
+Make the PESTEL Analysis compelling and professional and sort the lists with the most important factors first.
+
+Start the analysis with a paragraph showing the introduction and definition of the {company}.  
+If the company is traded on the stock market, I want you to include stock ticker in the introduction.
+
+End the analysis with a conclusion about {company}.
+
+Each part of the PESTEL will use the bullet, bold, description format shown here
+
+```markdown
+* **high level point**: explanation why it is important
+```
+
+Layout the PESTEL Analysis in markdown format. 
+
+
+```markdown
+
+# {company} - PESTEL Analysis
+
+[introduction and definition about {company}]
+ 
+## Political
+[list of key Political factors - use bullet, bold, description format] 
+ 
+## Economic
+[list of key Economic factors - use bullet, bold, description format] 
+ 
+## Social
+[list of key Social factors - use bullet, bold, description format] 
+ 
+## Technological
+[list of key Technological factors - use bullet, bold, description format] 
+ 
+## Environmental
+[list of key Environmental factors - use bullet, bold, description format] 
+ 
+## Legal
+[list of key Legal factors - use bullet, bold, description format] 
+ 
+[conclusion about {company}]
+
+```
+
+The {company} is "Apple Inc" 
+
