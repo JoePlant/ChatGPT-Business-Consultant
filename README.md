@@ -306,4 +306,4 @@ Example outputs:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JoePlant/ChatGPT-Business-Consultant&type=Date)](https://star-history.com/#JoePlant/ChatGPT-Business-Consultant&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JoePlant/ChatGPT-Business-Consultant)](https://star-history.com/#JoePlant/ChatGPT-Business-Consultant)
