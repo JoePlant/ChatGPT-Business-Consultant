@@ -303,3 +303,7 @@ Example outputs:
 * Business Model Canvas for the [Apple iPhone](BMC-iphone.md)
 
 ----
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JoePlant/ChatGPT-Business-Consultant&type=Date)](https://star-history.com/#JoePlant/ChatGPT-Business-Consultant&Date)
